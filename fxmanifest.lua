@@ -21,6 +21,6 @@ files {
     'html/style.css',
     'html/reset.css',
     'html/listener.js',
-    'html/images/bgPanel.png',
+    'html/images/bg_creator.png',
     'html/crock.ttf',
 }
