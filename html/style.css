@@ -15,7 +15,7 @@ html {
 	/* box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.16), 0px 2px 10px 0px rgba(0, 0, 0, 0.12); */
     color: rgba(255, 255, 255, 0.9);
 	/* background-color: rgba(7, 7, 7, 0.5); Table Heading Background Color */
-	background-image: url("images/bgPanel.png");
+	background-image: url("images/bg_creator.png");
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
